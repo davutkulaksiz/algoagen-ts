@@ -65,6 +65,7 @@ function triple_sum_char_codes(n: string): number {
     for (let i = 0; i < n.length; ++i) {
         for (let j = 0; j < n.length; ++j) {
             for (let k = 0; k < n.length; ++k) {
+                const charCode = n.charCodeAt(j);
                 sum += charCode;
             }
         }
