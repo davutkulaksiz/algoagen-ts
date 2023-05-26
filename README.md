@@ -1,3 +1,6 @@
+## Developed live on twitch
+[ThePrimeagen](https://twitch.tv/ThePrimeagen)
+
 ## Naming
 ### Lig-Machine
 Lengthy Instrumentation Generating Massive Anticompetitive Computational Help for Intermediate Coders // n9
