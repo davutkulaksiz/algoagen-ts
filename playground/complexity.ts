@@ -72,3 +72,5 @@ function triple_sum_char_codes(n: string): number {
     }
     return sum;
 }
+
+// IF THE INPUT HALVES AT EACH STEP, IT'S LIKELY O(logN) or O(NlogN)
